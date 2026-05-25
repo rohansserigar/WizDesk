@@ -40,10 +40,10 @@ It allows team leaders to create and assign tasks while enabling members to trac
 6. Members update progress in real time
 
 **##Screenshots**
+
 **Homepage:**
 <img width="1417" height="820" alt="image" src="https://github.com/user-attachments/assets/ec1ae63d-5a4c-4b43-be64-fa53292296c8" />
-Leader Registration page:
-**Team Leader Registrati**:
+**Team Leader Registration**:
 <img width="1150" height="750" alt="image" src="https://github.com/user-attachments/assets/57834a4e-a0ea-461e-83e3-570e3dfdc261" />
 
 **Team code Generation**
